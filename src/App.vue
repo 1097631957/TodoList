@@ -12,5 +12,8 @@
   a {
     text-decoration: none;
   }
+  input {
+    outline: none;
+  }
 }
 </style>
