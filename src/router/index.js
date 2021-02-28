@@ -7,6 +7,7 @@ import DelList from '../components/DelList.vue'
 
 Vue.use(VueRouter)
 
+// 2333
 const routes = [
   {
     path: '/',
